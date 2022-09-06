@@ -1,4 +1,4 @@
-# Board Game - Software Engineering Project 
+# Santorini Online Board Game - Software Engineering 1 Project 
 
 This game was developed as a computer game for the final examination of the Software engineering course at Politecnico di Milano (A.Y. 2019/2020) - Bachelor of Science thesis project.
 <br>
